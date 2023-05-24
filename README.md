@@ -1,4 +1,5 @@
 # Underwrite.AI: A New Era in Business Planning, Forecasting, and Automation, Designed for Executive Teams and Entrepreneurs
+(Under development; please follow and check back soon, or contact us to contribute)
 
 Are you a visionary business owner, a discerning real estate investor, or an innovative developer brimming with entrepreneurial spirit? Whether you're fostering a budding business idea, eager to take root, or steering an established business toward broader horizons, you've landed in just the right place!
 
@@ -27,3 +28,4 @@ We aim to create a platform where users can seamlessly input their business conc
 Are you ready to reshape the future of business planning, Forecasting, and success? Your journey toward successive business triumph starts here. Let's make business planning smarter, swifter, and more exhilarating!
 
 For those interested in contributing to this project, please get in touch with Kevin.
+https://LinkedIn.com/in/KevinMeehanOfficial
