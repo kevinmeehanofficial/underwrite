@@ -1,4 +1,4 @@
-# Underwrite.AI: A New Era in Business Planning, Forecasting, and Automation, Designed for Executive Teams and Entrepreneurs
+# A New Era in Business Planning, Forecasting, and Automation, Designed for Executive Teams and Entrepreneurs
 (Under development; please follow and check back soon, or contact us to contribute)
 
 Are you a visionary business owner, a discerning real estate investor, or an innovative developer brimming with entrepreneurial spirit? Whether you're fostering a budding business idea, eager to take root, or steering an established business toward broader horizons, you've landed in just the right place!
